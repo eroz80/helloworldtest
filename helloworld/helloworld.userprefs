@@ -1,7 +1,12 @@
 ﻿<Properties StartupConfiguration="{2026A64F-322D-4D4C-9764-BCB6E6AFC646}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AboutAssets.txt">
     <Files>
-      <File FileName="MainActivity.cs" Line="28" Column="1" />
+      <File FileName="MainActivity.cs" Line="23" Column="109" />
+      <File FileName="Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/AboutAssets.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
