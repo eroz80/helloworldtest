@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{2026A64F-322D-4D4C-9764-BCB6E6AFC646}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+﻿<Properties StartupConfiguration="{6C536CC7-1946-42F5-9B58-0A60F90093D9}|Pruebas unitarias">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="MainActivity.cs" Line="28" Column="1" />
+      <File FileName="helloworld.test/Tests.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
@@ -11,4 +12,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.helloworld PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.helloworld.test PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

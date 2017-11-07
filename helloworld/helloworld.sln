@@ -3,6 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloworld", "helloworld.csproj", "{2026A64F-322D-4D4C-9764-BCB6E6AFC646}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloworld.test", "helloworld.test\helloworld.test.csproj", "{6C536CC7-1946-42F5-9B58-0A60F90093D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CI", "CI", "{705F39C9-9BB9-4EFA-9723-56A4D5015BAB}"
+	ProjectSection(SolutionItems) = preProject
+		test-cloud.exe = test-cloud.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +20,9 @@ Global
 		{2026A64F-322D-4D4C-9764-BCB6E6AFC646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2026A64F-322D-4D4C-9764-BCB6E6AFC646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2026A64F-322D-4D4C-9764-BCB6E6AFC646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C536CC7-1946-42F5-9B58-0A60F90093D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C536CC7-1946-42F5-9B58-0A60F90093D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C536CC7-1946-42F5-9B58-0A60F90093D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C536CC7-1946-42F5-9B58-0A60F90093D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
