@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{6C536CC7-1946-42F5-9B58-0A60F90093D9}|Pruebas unitarias">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
     <Files>
       <File FileName="MainActivity.cs" Line="28" Column="1" />
       <File FileName="helloworld.test/Tests.cs" Line="1" Column="1" />
