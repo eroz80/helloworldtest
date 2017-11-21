@@ -20,7 +20,7 @@ namespace helloworld
             // and attach an event to it
             Button button = FindViewById<Button>(Resource.Id.myButton);
 
-            button.Click += delegate { button.Text = $"Hello World, {count++} clicks! now with 2 minutes check"; };
+            button.Click += delegate { button.Text = $"Hello World, {count++} clicks! now with 2 minutes check again"; };
         }
     }
 }
